@@ -1,0 +1,12 @@
+
+a:hover{
+    background-color: var(--bs-primary);
+    border-radius: 2px;
+  
+}
+a{
+  padding:5px;
+}
+.geek{
+  width: 20px;
+}
