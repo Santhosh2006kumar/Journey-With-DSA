@@ -1,0 +1,32 @@
+{
+    "btra":[
+        {
+            "id":1,
+            "name":"Backtracking and Recursion Advanced ",
+            "title":"",
+            "topics":[
+                {
+                    "problem":"Print all permutations of a string/array",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/permutations/",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"N queens Problem",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/n-queens/",
+                    "difficulty":"hard",
+                    "solution":""
+                },
+                {
+                    "problem":"Sudoko Solver",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/sudoku-solver/",
+                    "difficulty":"hard",
+                    "solution":""
+                }
+            ]
+        }
+    ]
+}

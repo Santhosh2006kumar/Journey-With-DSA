@@ -1,0 +1,67 @@
+{
+    "dptech":[
+        {
+            "id":1,
+            "name":"Dynamic Programming Technique ",
+            "title":"",
+            "topics":[
+                {
+                    "problem":"Max Product Subarray",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/maximum-product-subarray/",
+                    "difficulty":"hard",
+                    "solution":""
+                },
+                {
+                    "problem":"Longest Increasing Subsequence",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/longest-increasing-subsequence/",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Longest Common Subsequence",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/longest-common-subsequence/",
+                    "difficulty":"hard",
+                    "solution":""
+                },
+                {
+                    "problem":"Edit Distance",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/edit-distance/",
+                    "difficulty":"hard",
+                    "solution":""
+                },
+                {
+                    "problem":"Minimum sum path in the matrix, (count paths and similar type do, also backtrack to find the Minimum path)",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/minimum-path-sum/",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Coin change",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/coin-change/",
+                    "difficulty":"hard",
+                    "solution":""
+                },
+                {
+                    "problem":"Rod Cutting",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/minimum-cost-to-cut-a-stick/",
+                    "difficulty":"hard",
+                    "solution":""
+                },
+                {
+                    "problem":"Subset Sum",
+                    "glink":"",
+                    "leetcode":"https://leetcode.com/problems/partition-equal-subset-sum/",
+                    "difficulty":"hard",
+                    "solution":""
+                }
+            ]
+        }
+    ]
+}

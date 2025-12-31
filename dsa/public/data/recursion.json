@@ -1,0 +1,60 @@
+{
+    "recursion":[
+        {
+            "id":1,
+            "name":"Recursion - Technique",
+            "title":"BASICS",
+            "topics":[
+                {
+                    "problem":"Print 1 to N using recursion",
+                    "glink":"https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1",
+                    "leetcode":"https://leetcode.com/problem-list/recursion/",
+                    "difficulty":"easy",
+                    "solution":""
+                },
+                {
+                    "problem":"Factorial of N numbers",
+                    "glink":"https://practice.geeksforgeeks.org/problems/factorial5739/1",
+                    "leetcode":"https://leetcode.com/problem-list/recursion/",
+                    "difficulty":"easy",
+                    "solution":""
+                },
+                {
+                    "problem":"Fibonacci series using recursion",
+                    "glink":"https://www.geeksforgeeks.org/problems/nth-fibonacci-number1335/1?",
+                    "leetcode":"https://leetcode.com/problem-list/recursion/",
+                    "difficulty":"easy",
+                    "solution":""
+                },
+                {
+                    "problem":"Power(x,n) Draw the recursion tree for all the probs for sure",
+                    "glink":"https://www.geeksforgeeks.org/problems/power-of-numbers-1587115620/1?",
+                    "leetcode":"https://leetcode.com/problems/powx-n/",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Print pattern",
+                    "glink":"https://www.geeksforgeeks.org/problems/print-pattern3549/1?",
+                    "leetcode":"https://leetcode.com/problem-list/recursion/",
+                    "difficulty":"easy",
+                    "solution":""
+                },
+                {
+                    "problem":"Recursive implementation of atoi",
+                    "glink":"https://practice.geeksforgeeks.org/problems/implement-atoi/1?",
+                    "leetcode":"https://leetcode.com/problems/string-to-integer-atoi/description/",
+                    "difficulty":"easy",
+                    "solution":""
+                },
+                {
+                    "problem":"Pascal triangle",
+                    "glink":"https://www.geeksforgeeks.org/problems/pascal-triangle0652/1?",
+                    "leetcode":"https://leetcode.com/problems/pascals-triangle/description/",
+                    "difficulty":"easy",
+                    "solution":""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "trie":[
+        {
+            "id":1,
+            "name":"Trie ",
+            "title":"",
+            "topics":[
+                {
+                    "problem":"Implement Trie (Prefix Tree)",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/implement-trie-prefix-tree/",
+                    "difficulty":"hard",
+                    "solution":""
+                },
+                {
+                    "problem":"Implement Trie - 2 (Prefix Tree)",
+                    "glink":"---",
+                    "leetcode":"---",
+                    "difficulty":"hard",
+                    "solution":""
+                },
+                {
+                    "problem":"Longest String with All Prefixes",
+                    "glink":"---",
+                    "leetcode":"---",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Number of Distinct Substrings in a String",
+                    "glink":"",
+                    "leetcode":"",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Power Set (this is very important)",
+                    "glink":"",
+                    "leetcode":"",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Maximum XOR of two numbers in an array",
+                    "glink":"",
+                    "leetcode":"https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/",
+                    "difficulty":"hard",
+                    "solution":""
+                },
+                {
+                    "problem":"Maximum XOR With an Element From Array",
+                    "glink":"",
+                    "leetcode":"https://leetcode.com/problems/maximum-xor-with-an-element-from-array/",
+                    "difficulty":"hard",
+                    "solution":""
+                }
+            ]
+        }
+    ]
+}

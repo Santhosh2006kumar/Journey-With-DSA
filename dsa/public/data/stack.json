@@ -1,0 +1,67 @@
+{
+    "stack":[
+        {
+            "id":1,
+            "name":"Stack",
+            "title":"BASICS",
+            "topics":[
+                {
+                    "problem":"Implement 2 stack using array",
+                    "glink":"https://www.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1?page=1&category=Stack&sortBy=submissions",
+                    "leetcode":"---",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Get min from stack in O(1) space and time",
+                    "glink":"https://www.geeksforgeeks.org/problems/get-minimum-element-from-stack/1?page=1&category=Stack&sortBy=submissions",
+                    "leetcode":"---",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Next greater element",
+                    "glink":"https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1?page=1&category=Stack&sortBy=submissions",
+                    "leetcode":"---",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Next smallest element on left",
+                    "glink":"https://www.geeksforgeeks.org/problems/help-classmates--141631/1?itm_source=geeksforgeeks",
+                    "leetcode":"---",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Next smallest element on right",
+                    "gIink":"https://geeksforgeeks.org/",
+                    "leetcode":"https://www.codingninjas.com/studio/problems/next-smaller-element_1112581",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Insert at bottom of stack",
+                    "glink":"https://www.geeksforgeeks.org/problems/insert-an-element-at-the-bottom-of-a-stack/1?page=4&category=Stack&sortBy=submissions",
+                    "leetcode":"---",
+                    "difficulty":"easy",
+                    "solution":""
+                },
+                {
+                    "problem":"Reverse a stack",
+                    "glink":"https://www.geeksforgeeks.org/problems/reverse-a-stack/1?page=2&category=Stack&sortBy=submissions",
+                    "leetcode":"---",
+                    "difficulty":"easy",
+                    "solution":""
+                },
+                {
+                    "problem":"Sort stack",
+                    "glink":"https://www.geeksforgeeks.org/problems/sort-a-stack/1?page=1&category=Stack&sortBy=submissions",
+                    "leetcode":"---",
+                    "difficulty":"medium",
+                    "solution":""
+                }
+            ]
+        }
+    ]
+}

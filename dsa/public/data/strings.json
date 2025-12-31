@@ -1,0 +1,53 @@
+{
+    "strings":[
+        {
+            "id":1,
+            "name":"Strings",
+            "title":"",
+            "topics":[
+                {
+                    "problem":"Reverse Words in a String",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/reverse-words-in-a-string/",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Longest Palindrome in a string",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/longest-palindromic-substring/",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Roman Number to Integer and vice versa",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/roman-to-integer/",
+                    "difficulty":"easy",
+                    "solution":"solved (L)"
+                },
+                {
+                    "problem":"Implement ATOI/STRSTR",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/string-to-integer-atoi/",
+                    "difficulty":"easy",
+                    "solution":""
+                },
+                {
+                    "problem":"Longest Common Prefix",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/longest-common-prefix/",
+                    "difficulty":"easy",
+                    "solution":""
+                },
+                {
+                    "problem":"Rabin Karp",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/repeated-string-match/discuss/416144/Rabin-Karp-algorithm-C%2B%2B-implementation",
+                    "difficulty":"hard",
+                    "solution":""
+                }
+            ]
+        }
+    ]
+}

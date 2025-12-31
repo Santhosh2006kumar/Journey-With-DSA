@@ -1,0 +1,53 @@
+{
+    "matrix":[
+        {
+            "id":1,
+            "name":"Matrix - Data structure",
+            "title":"TRAVERSAL & BASICS & MUST SOLVE",
+            "topics":[
+                {
+                    "problem":"Search in a matrix",
+                    "glink":"https://www.geeksforgeeks.org/dsa/search-element-sorted-matrix/",
+                    "leetcode":"https://leetcode.com/problems/search-a-2d-matrix/",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Rotate by 90 degree",
+                    "glink":"https://www.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1",
+                    "leetcode":"https://leetcode.com/problems/rotate-image/description/",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Maximum num of 1's row",
+                    "glink":"https://www.geeksforgeeks.org/problems/row-with-minimum-number-of-1s5430/1?",
+                    "leetcode":"https://leetcode.com/problems/row-with-maximum-ones/description/",
+                    "difficulty":"easy",
+                    "solution":""
+                },
+                {
+                    "problem":"Left rotate matrix k times",
+                    "glink":"https://practice.geeksforgeeks.org/problems/left-rotate-matrix-k-times2351/1",
+                    "leetcode":"https://leetcode.com/problems/rotate-array/description/",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Print matrix in diagonal pattern",
+                    "glink":"https://www.geeksforgeeks.org/problems/print-matrix-in-diagonal-pattern/1?",
+                    "leetcode":"https://leetcode.com/problems/diagonal-traverse/description/",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Set matrix zeros",
+                    "glink":"https://www.geeksforgeeks.org/dsa/set-matrix-rows-and-columns-to-zeroes/",
+                    "leetcode":"https://leetcode.com/problems/set-matrix-zeroes/",
+                    "difficulty":"easy",
+                    "solution":""
+                }
+            ]
+        }
+    ]
+}

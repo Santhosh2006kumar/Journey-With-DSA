@@ -1,0 +1,67 @@
+{
+    "graphs":[
+        {
+            "id":1,
+            "name":"Graphs ",
+            "title":"",
+            "topics":[
+                {
+                    "problem":"Clone a graph (Not that easy as it looks)",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/clone-graph/",
+                    "difficulty":"hard",
+                    "solution":""
+                },
+                {
+                    "problem":"Detect A cycle in Undirected Graph using BFS",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/course-schedule/",
+                    "difficulty":"hard",
+                    "solution":""
+                },
+                {
+                    "problem":"Detect A cycle in Undirected Graph using DFS",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/course-schedule/",
+                    "difficulty":"hard",
+                    "solution":""
+                },
+                {
+                    "problem":"Detect A cycle in a Directed Graph using DFS",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/course-schedule/",
+                    "difficulty":"hard",
+                    "solution":""
+                },
+                {
+                    "problem":"Detect A cycle in a Directed Graph using BFS",
+                    "glink":"",
+                    "leetcode":"https://leetcode.com/problems/course-schedule/",
+                    "difficulty":"hard",
+                    "solution":""
+                },
+                {
+                    "problem":"Number of islands(Do in Grid and Graph Both)",
+                    "glink":"",
+                    "leetcode":"https://leetcode.com/problems/number-of-islands/",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Bipartite Check using BFS",
+                    "glink":"",
+                    "leetcode":"https://leetcode.com/problems/is-graph-bipartite/",
+                    "difficulty":"hard",
+                    "solution":""
+                },
+                {
+                    "problem":"Bipartite Check using DFS",
+                    "glink":"",
+                    "leetcode":"https://leetcode.com/problems/is-graph-bipartite/",
+                    "difficulty":"hard",
+                    "solution":""
+                }
+            ]
+        }
+    ]
+}

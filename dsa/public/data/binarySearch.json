@@ -1,0 +1,200 @@
+{
+    "binarySearch":[
+        {
+            "id":1,
+            "name":"Binary Search",
+            "title":"BASIC PATTERN",
+            "topics":[
+                {
+                    "problem":"Search in a sorted array",
+                    "glink":"https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1?",
+                    "leetcode":"---",
+                    "difficulty":"easy",
+                    "solution":""
+                },
+                {
+                    "problem":"Find floor and ceil in sorted array",
+                    "glink":"https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1",
+                    "leetcode":"---",
+                    "difficulty":"easy",
+                    "solution":""
+                },
+                {
+                    "problem":"Find first and last occurence of element in sorted array",
+                    "glink":"https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1?page=1&category=Binary%20Search&sortBy=submissions",
+                    "leetcode":"---",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Find missing num from 1 to N",
+                    "glink":"https://www.geeksforgeeks.org/",
+                    "leetcode":"https://leetcode.com/problems/missing-number/",
+                    "difficulty":"easy",
+                    "solution":""
+                },
+                {
+                    "problem":"Find square root",
+                    "glink":"https://www.geeksforgeeks.org/problems/square-root/1?",
+                    "leetcode":"---",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Search for element in infinite array",
+                    "glink":"https://www.geeksforgeeks.org/",
+                    "leetcode":"https://www.codingninjas.com/studio/problems/search-in-infinite-sorted-0-1-array_696193",
+                    "difficulty":"medium",
+                    "solution":""
+                }
+            ]
+        },
+        {
+            "id":2,
+            "name":"",
+            "title":"SORTED ROTATED ARRAY",
+            "topics":[
+                {
+                    "problem":"Search element in sorted rotated array",
+                    "glink":"https://www.geeksforgeeks.org/dsa/search-an-element-in-a-sorted-and-pivoted-array/",
+                    "leetcode":"https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+                    "difficulty":"easy",
+                    "solution":""
+                },
+                {
+                    "problem":"Minimum element in sorted rotated array",
+                    "glink":"https://www.geeksforgeeks.org/problems/minimum-number-in-a-sorted-rotated-array-1587115620/1?",
+                    "leetcode":"https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Number of times array is sorted",
+                    "glink":"https://www.geeksforgeeks.org/problems/rotation4723/1?",
+                    "leetcode":"---",
+                    "difficulty":"easy",
+                    "solution":""
+                },
+                {
+                    "problem":"Maximum element in sorted rotated array",
+                    "glink":"https://www.geeksforgeeks.org/dsa/maximum-element-in-a-sorted-and-rotated-array/",
+                    "leetcode":"https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/",
+                    "difficulty":"medium",
+                    "solution":""
+                }
+            ]
+        },
+        {
+            "id":3,
+            "name":"",
+            "title":"BIOTONIC ARRAY",
+            "topics":[
+                {
+                    "problem":"Find the peak element",
+                    "glink":"https://www.geeksforgeeks.org/problems/peak-element/1?",
+                    "leetcode":"https://leetcode.com/problems/find-peak-element/description/",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Search element in biotonic array",
+                    "glink":"https://www.geeksforgeeks.org/dsa/find-element-bitonic-array/",
+                    "leetcode":"https://leetcode.com/problems/find-in-mountain-array/description/",
+                    "difficulty":"hard",
+                    "solution":""
+                }
+            ]
+        },
+        {
+            "id":4,
+            "name":"",
+            "title":"APPLICATION",
+            "topics":[
+                {
+                    "problem":"Aggressive cows",
+                    "glink":"https://www.geeksforgeeks.org/",
+                    "leetcode":"---",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Allocate minimum pages",
+                    "glink":"https://www.geeksforgeeks.org/",
+                    "leetcode":"---",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Painter partition",
+                    "glink":"https://www.geeksforgeeks.org/",
+                    "leetcode":"---",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Split array largest sum",
+                    "glink":"https://www.geeksforgeeks.org/",
+                    "leetcode":"---",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Minimum num of days to make m bouquets",
+                    "glink":"https://www.geeksforgeeks.org/",
+                    "leetcode":"---",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Capacity to ship packages within D days",
+                    "glink":"https://www.geeksforgeeks.org/",
+                    "leetcode":"---",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"koko eating bananas",
+                    "glink":"https://www.geeksforgeeks.org/",
+                    "leetcode":"https://leetcode.com/problems/koko-eating-bananas/",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"kth smallest number in matrix multiplication table",
+                    "glink":"https://www.geeksforgeeks.org/",
+                    "leetcode":"https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/",
+                    "difficulty":"hard",
+                    "solution":""
+                },
+                {
+                    "problem":"kth smallest pair distance",
+                    "glink":"https://www.geeksforgeeks.org/",
+                    "leetcode":"https://leetcode.com/problems/find-k-th-smallest-pair-distance/",
+                    "difficulty":"hard",
+                    "solution":""
+                },
+                {
+                    "problem":"Ugly number II",
+                    "glink":"https://www.geeksforgeeks.org/",
+                    "leetcode":"https://leetcode.com/problems/ugly-number-ii/",
+                    "difficulty":"hard",
+                    "solution":""
+                },
+                {
+                    "problem":"Median of 2 sorted arrays",
+                    "glink":"Median of 2 Sorted Arrays of Different Sizes | Practice | GeeksforGeeks",
+                    "leetcode":"---",
+                    "difficulty":"hard",
+                    "solution":""
+                },
+                {
+                    "problem":"Find smallest divisor given threshold",
+                    "glink":"https://www.geeksforgeeks.org/",
+                    "leetcode":"Find the Smallest Divisor Given a Threshold - LeetCode",
+                    "difficulty":"medium",
+                    "solution":""
+                }
+            ]
+        }
+    ]
+}

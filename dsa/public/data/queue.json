@@ -1,0 +1,46 @@
+{
+    "queue":[
+        {
+            "id":1,
+            "name":"Queue",
+            "title":"",
+            "topics":[
+                {
+                    "problem":"Implement queue using linkedlist",
+                    "glink":"https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1?page=1&category=Queue&sortBy=submissions",
+                    "leetcode":"---",
+                    "difficulty":"easy",
+                    "solution":""
+                },
+                {
+                    "problem":"Implement queue using stack(super imp)",
+                    "glink":"https://www.geeksforgeeks.org/problems/queue-using-two-stacks/1?page=1&category=Queue&sortBy=submissions",
+                    "leetcode":"---",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Implement stack using queue(super imp)",
+                    "glink":"https://www.geeksforgeeks.org/problems/stack-using-two-queues/1?page=1&category=Queue&sortBy=submissions",
+                    "leetcode":"---",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Reverse a queue",
+                    "glink":"https://www.geeksforgeeks.org/problems/queue-reversal/1?page=1&category=Queue&sortBy=submissions",
+                    "leetcode":"---",
+                    "difficulty":"easy",
+                    "solution":""
+                },
+                {
+                    "problem":"Reverse first k elements in queue",
+                    "glink":"https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1?page=1&category=Queue&sortBy=submissions",
+                    "leetcode":"---",
+                    "difficulty":"medium",
+                    "solution":""
+                }
+            ]
+        }
+    ]
+}

@@ -1,12 +1,59 @@
+.geek{
+  width: 20px;
+}
 
-a:hover{
+.cbg:hover{
     background-color: var(--bs-primary);
     border-radius: 2px;
   
 }
-a{
+.cbg{
   padding:5px;
 }
-.geek{
-  width: 20px;
+.output-block{
+  background-color: #1e1e1e;
+  color: #d4d4d4;
+  font-family: monospace;
+  font-size: 15px;
+  padding-left :15px;
+  padding-bottom:15px;
+}
+
+.complexity-box {
+  margin-top: 15px;
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.complexity-item {
+  background: #111827; /* dark slate */
+  border-radius: 10px;
+  padding: 12px 18px;
+  min-width: 220px;
+  border-left: 4px solid;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.complexity-item.time {
+  border-color: #0dcaf0; /* Bootstrap info */
+}
+
+.complexity-item.space {
+  border-color: #ffc107; /* Bootstrap warning */
+}
+
+.label {
+  display: block;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  color: #9ca3af;
+  margin-bottom: 6px;
+}
+
+.value {
+  font-size: 18px;
+  font-weight: 700;
+  color: #ffffff;
 }

@@ -1,0 +1,188 @@
+{
+    "trees":[
+        {
+            "id":1,
+            "name":"Trees ",
+            "title":"BINARY TREE PART - 1",
+            "topics":[
+                {
+                    "problem":"Inorder Traversal",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/binary-tree-inorder-traversal/",
+                    "difficulty":"easy",
+                    "solution":""
+                },
+                {
+                    "problem":"Preorder Traversal",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/binary-tree-preorder-traversal/",
+                    "difficulty":"easy",
+                    "solution":""
+                },
+                {
+                    "problem":"Postorder Traversal",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/binary-tree-postorder-traversal/",
+                    "difficulty":"easy",
+                    "solution":""
+                },
+                {
+                    "problem":"Morris Inorder Traversal",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/binary-tree-inorder-traversal/",
+                    "difficulty":"hard",
+                    "solution":""
+                },
+                {
+                    "problem":"Vertical order traversal",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Max width of a Binary Tree",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/maximum-width-of-binary-tree/",
+                    "difficulty":"medium",
+                    "solution":""
+                }
+            ]
+        },
+        {
+            "id":2,
+            "name":"",
+            "title":"BINARY TREE PART - 2",
+            "topics":[
+                {
+                    "problem":"Level order Traversal / Level order traversal in spiral form",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/binary-tree-level-order-traversal/",
+                    "difficulty":"easy",
+                    "solution":""
+                },
+                {
+                    "problem":"Height of a Binary Tree",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Diameter of Binary Tree",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/diameter-of-binary-tree/",
+                    "difficulty":"easy",
+                    "solution":""
+                },
+                {
+                    "problem":"Check if the Binary tree is height-balanced or not",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/balanced-binary-tree/",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"LCA in Binary Tree",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+                    "difficulty":"hard",
+                    "solution":""
+                },
+                {
+                    "problem":"Check if two trees are identical or not",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/same-tree/",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Zig Zag Traversal of Binary Tree",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Boundary Traversal of Binary Tree",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/boundary-of-binary-tree/",
+                    "difficulty":"medium",
+                    "solution":""
+                }
+            ]
+        },
+        {
+            "id":3,
+            "name":"",
+            "title":"BINARY TREE PART - 3",
+            "topics":[
+                {
+                    "problem":"Construct Binary Tree from inorder and preorder",
+                    "glink":"",
+                    "leetcode":"https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+                    "difficulty":"hard",
+                    "solution":""
+                },
+                {
+                    "problem":"Construct Binary Tree from Inorder and Postorder",
+                    "glink":"",
+                    "leetcode":"https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
+                    "difficulty":"hard",
+                    "solution":""
+                },
+                {
+                    "problem":"Symmetric Binary Tree",
+                    "glink":"",
+                    "leetcode":"https://leetcode.com/problems/symmetric-tree/",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Flatten Binary Tree to LinkedList",
+                    "glink":"",
+                    "leetcode":"https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+                    "difficulty":"hard",
+                    "solution":""
+                }
+            ]
+        },
+        {
+            "id":4,
+            "name":"",
+            "title":"BINARY SEARCH TREE",
+            "topics":[
+                {
+                    "problem":"Populate Next Right pointers of Tree",
+                    "glink":"",
+                    "leetcode":"https://leetcode.com/problems/populating-next-right-pointers-in-each-node/",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Search given Key in BST",
+                    "glink":"",
+                    "leetcode":"https://leetcode.com/problems/search-in-a-binary-search-tree/",
+                    "difficulty":"easy",
+                    "solution":""
+                },
+                {
+                    "problem":"Construct BST from given keys",
+                    "glink":"",
+                    "leetcode":"https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/",
+                    "difficulty":"hard",
+                    "solution":""
+                },
+                {
+                    "problem":"Check is a BT is BST or not",
+                    "glink":"",
+                    "leetcode":"https://leetcode.com/problems/validate-binary-search-tree/",
+                    "difficulty":"medium",
+                    "solution":""
+                }
+
+            ]
+        }
+
+    ]
+}

@@ -1,0 +1,217 @@
+{
+"arrays":[
+        {
+            "id":1,
+            "name":"Array - Data structure",
+            "title":"BASICS WITH TRAVERSAL",
+            "topics":[
+                {
+                    "problem" : "Find the maximum and minimum element in array",
+                    "glink" : "https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1",
+                    "leetcode":"---",
+                    "difficulty":"easy",
+                    "solution":"solved"
+                },
+                {
+                    "problem" : "Find third largest element in array",
+                    "glink" : "https://practice.geeksforgeeks.org/problems/third-largest-element/1",
+                    "leetcode":"https://leetcode.com/problems/third-maximum-number/",
+                    "difficulty":"easy",
+                    "solution":""
+                },
+                {
+                    "problem" : "Search an element in array",
+                    "glink" : "https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1",
+                    "leetcode":"---",
+                    "difficulty":"easy",
+                    "solution":"solved"
+                },
+                {
+                    "problem" : "Find missing number in array",
+                    "glink" : "https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1",
+                    "leetcode":"https://leetcode.com/problems/missing-number/description/",
+                    "difficulty":"easy",
+                    "solution":""
+                },
+                {
+                    "problem" : "Find repeating number in array",
+                    "glink" : "https://www.geeksforgeeks.org/dsa/find-repetitive-element-1-n-1/",
+                    "leetcode":"https://leetcode.com/problems/find-the-duplicate-number/description/",
+                    "difficulty":"medium",
+                    "solution":"solved (L)"
+                },
+                {
+                    "problem" : "Sort an array of 0s , 1s and 2s",
+                    "glink" : "https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1?",
+                    "leetcode":"https://leetcode.com/problems/sort-colors/",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem" : "Check if two arrays are equal or not",
+                    "glink" : "https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1?",
+                    "leetcode":"https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/",
+                    "difficulty":"easy",
+                    "solution":""
+                },
+                {
+                    "problem" : "Rotate the array by 1",
+                    "glink" : "https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1?",
+                    "leetcode":"https://leetcode.com/problems/rotate-array/description/",
+                    "difficulty":"easy",
+                    "solution":""
+                },
+                {
+                    "problem" : "Rotate the array by k",
+                    "glink" : "https://www.geeksforgeeks.org/dsa/print-array-after-it-is-right-rotated-k-times/",
+                    "leetcode":"https://leetcode.com/problems/rotate-array/description/",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem" : "Array subset of another array",
+                    "glink" : "https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1",
+                    "leetcode":"---",
+                    "difficulty":"easy",
+                    "solution":""
+                },
+                {
+                    "problem" : "Count frequency of elements in array",
+                    "glink" : "https://practice.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1",
+                    "leetcode":"https://leetcode.com/problems/count-elements-with-maximum-frequency/description/",
+                    "difficulty":"easy",
+                    "solution":""
+                }
+            ],
+            "link":"/arrays"
+        },
+        {
+            "id":2,
+            "name":" ",
+            "title":"TWO POINTERS",
+            "topics":[
+                {
+                    "problem" : "Find pair with given sum",
+                    "glink" : "https://www.geeksforgeeks.org/problems/key-pair5616/1?",
+                    "leetcode":"https://leetcode.com/problems/two-sum/description/",
+                    "difficulty":"easy",
+                    "solution":"solved (L)"
+                },
+                {
+                    "problem" : "3 Sum",
+                    "glink" : "https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1?",
+                    "leetcode":"https://leetcode.com/problems/3sum/description/",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem" : "4 Sum",
+                    "glink" : "https://www.geeksforgeeks.org/dsa/find-four-elements-that-sum-to-a-given-value-set-2/",
+                    "leetcode":"https://leetcode.com/problems/4sum/",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem" : "Find triplets with zero sum",
+                    "glink" : "https://www.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1",
+                    "leetcode":"https://leetcode.com/problems/3sum/description/",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem" : "Find count of triplets",
+                    "glink" : "https://www.geeksforgeeks.org/dsa/count-of-triplets-in-an-array-i-j-k-such-that-i-j-k-and-ak-ai-aj/",
+                    "leetcode":"https://leetcode.com/problems/count-good-triplets/description/",
+                    "difficulty":"easy",
+                    "solution":""
+                },
+                {
+                    "problem" : "Union of two arrays",
+                    "glink" : "https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/1",
+                    "leetcode":"---",
+                    "difficulty":"easy",
+                    "solution":""
+                },
+                {
+                    "problem" : "Intersection of two arrays",
+                    "glink" : "https://www.geeksforgeeks.org/problems/intersection-of-two-arrays2404/1?",
+                    "leetcode":"https://leetcode.com/problems/intersection-of-two-arrays/description/",
+                    "difficulty":"easy",
+                    "solution":""
+                },
+                {
+                    "problem" : "Remove duplicates from sorted array",
+                    "glink" : "https://www.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1?",
+                    "leetcode":"https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/",
+                    "difficulty":"easy",
+                    "solution":"solved (L)"
+                },
+                {
+                    "problem" : "kth element of 2 sorted arrays",
+                    "glink" : "https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1?",
+                    "leetcode":"https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/description/",
+                    "difficulty":"hard",
+                    "solution":""
+                },
+                {
+                    "problem" : "Length of longest subarray with sum k",
+                    "glink" : "https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1?",
+                    "leetcode":"https://leetcode.com/problems/subarray-sum-equals-k/description/",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem" : "Trapping rain water",
+                    "glink" : "https://www.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1?",
+                    "leetcode":"https://leetcode.com/problems/trapping-rain-water/description/",
+                    "difficulty":"hard",
+                    "solution":""
+                }
+            ],
+            "link":"/arrays"
+        },
+        {
+            "id":3,
+            "name": "",
+            "title":"MUST SOLVE",
+            "topics":[
+                {
+                    "problem" : "Majority element",
+                    "glink" : "https://www.geeksforgeeks.org/dsa/majority-element/",
+                    "leetcode":"https://leetcode.com/problems/majority-element/",
+                    "difficulty":"easy",
+                    "solution":""
+                },
+                {
+                    "problem" : "Kadane's algo(super imp)",
+                    "glink" : "https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1",
+                    "leetcode":"https://leetcode.com/problems/maximum-subarray/description/",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem" : "Count inversions",
+                    "glink" : "https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1",
+                    "leetcode":"https://leetcode.com/problems/count-the-number-of-inversions/description/",
+                    "difficulty":"hard",
+                    "solution":""
+                },
+                {
+                    "problem" : "Merge intervals",
+                    "glink" : "https://www.geeksforgeeks.org/dsa/merging-intervals/",
+                    "leetcode":"https://leetcode.com/problems/merge-intervals/",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Next Permutation",
+                    "glink":"https://leetcode.com/problems/next-permutation/",
+                    "leetcode":"https://leetcode.com/problems/next-permutation/",
+                    "difficulty":"medium",
+                    "solution":""
+                }
+            ],
+            "link":"/arrays"
+        }
+    ]
+}

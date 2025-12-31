@@ -1,0 +1,53 @@
+{
+    "greedy":[
+        {
+            "id":1,
+            "name":"Greedy ",
+            "title":"",
+            "topics":[
+                {
+                    "problem":"N meetings in one room",
+                    "glink":"---",
+                    "leetcode":"---",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Minimum number of platforms required for a railway",
+                    "glink":"---",
+                    "leetcode":"---",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Job sequencing Problem",
+                    "glink":"---",
+                    "leetcode":"---",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Fractional Knapsack Problem",
+                    "glink":"---",
+                    "leetcode":"---",
+                    "difficulty":"medium",
+                    "solution":""
+                },
+                {
+                    "problem":"Greedy algorithm to find minimum number of coins",
+                    "glink":"---",
+                    "leetcode":"---",
+                    "difficulty":"hard",
+                    "solution":""
+                },
+                {
+                    "problem":"Assign Cookies",
+                    "glink":"---",
+                    "leetcode":"https://leetcode.com/problems/assign-cookies/",
+                    "difficulty":"easy",
+                    "solution":""
+                }
+            ]
+        }
+    ]
+}

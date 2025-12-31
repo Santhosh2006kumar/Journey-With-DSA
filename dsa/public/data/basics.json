@@ -1,6 +1,6 @@
 {
     "basics":[
-        {
+         {
             "id":1,
             "name":"Basics",
             "title":"BEGINNERS BASIC MATH PROBS",
@@ -8,76 +8,89 @@
                 {
                     "problem" : "Find even or odd",
                     "glink" : "https://practice.geeksforgeeks.org/problems/odd-or-even3618/1",
-                    "leetcode":"https://leetcode.com/",
-                    "solution":""
+                    "leetcode":"---",
+                    "difficulty":"easy",
+                    "solution":"NOTES"
                 },
                 {
                     "problem":"Find last digit in a number",
                     "glink":"https://www.geeksforgeeks.org/problems/find-last-digit-of-ab-for-large-numbers1936/1",
                     "leetcode":"https://leetcode.com/problems/add-digits/description/",
-                    "solution":""
+                    "difficulty":"easy",
+                    "solution":"solved (L)"
                 },
                 {
                     "problem":"Count digits in a number",
                     "glink":"https://practice.geeksforgeeks.org/problems/count-digits5716/1",
-                    "leetcode":"https://leetcode.com/",
-                    "solution":""
+                    "leetcode":"---",
+                    "difficulty":"easy",
+                    "solution":"solved"
                 },
                 {
                     "problem":"Reverse a number",
                     "glink":"https://www.geeksforgeeks.org/problems/reverse-digit0316/1",
                     "leetcode":"https://leetcode.com/problems/reverse-integer/description/",
-                    "solution":""
+                    "difficulty":"easy",
+                    "solution":"solved (L)"
                 },
                 {
                     "problem":"Find power of a number",
                     "glink":"https://www.geeksforgeeks.org/problems/power-of-numbers-1587115620/1",
-                    "leetcode":"https://leetcode.com/",
+                    "leetcode":"---",
+                    "difficulty":"easy",
                     "solution":""
                 },
                 {
                     "problem":"GCD",
                     "glink":"https://practice.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1",
-                    "leetcode":"https://leetcode.com/",
+                    "leetcode":"---",
+                    "difficulty":"easy",
                     "solution":""
                 },
                 {
                     "problem":"Print all divisors of a number",
                     "glink":"https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1",
-                    "leetcode":"https://leetcode.com/",
+                    "leetcode":"---",
+                    "difficulty":"medium",
                     "solution":""
                 },
                 {
                     "problem":"Prime number",
                     "glink":"https://practice.geeksforgeeks.org/problems/prime-number2314/1",
                     "leetcode":"https://leetcode.com/problems/count-primes/",
+                    "difficulty":"easy",
                     "solution":""
                 },
                 {
                     "problem":"Armstrong number",
                     "glink":"https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1",
                     "leetcode":"https://leetcode.com/problems/armstrong-number/description/",
+                    "difficulty":"easy",
                     "solution":""
                 },
                 {
                     "problem":"Check palindrome of number",
                     "glink":"https://practice.geeksforgeeks.org/problems/palindrome0746/1",
                     "leetcode":"https://leetcode.com/problems/palindrome-number/description/",
+                    "difficulty":"easy",
                     "solution":""
                 },
                 {
                     "problem":"Square root of a number",
                     "glink":"https://www.geeksforgeeks.org/problems/square-root/1",
                     "leetcode":"https://leetcode.com/problems/sqrtx/description/",
+                    "difficulty":"medium",
                     "solution":""
                 },
                 {
                     "problem":"Perfect number",
                     "glink":"https://practice.geeksforgeeks.org/problems/perfect-numbers3207/1",
                     "leetcode":"https://leetcode.com/problems/perfect-number/description/",
+                    "difficulty":"medium",
                     "solution":""
                 }
-            ]
+            ],
+            "link":"/basics"
         }
     ]
 }
