@@ -14,17 +14,17 @@ Navigates to the chatbot interface without manual input
 
 💻 Generates **default Java solutions** with:
 
-Time Complexity
+   * Time Complexity
 
-Space Complexity
+   * Space Complexity
 
 🔁 Supports **multi-language code generation**:
 
-Java (default)
+     * Java (default)
 
-Python
+     * Python
 
-C
+     *  C
 
 🌐 Responsive and user-friendly UI for seamless navigation
 
@@ -38,8 +38,77 @@ C
 
 4. AI processes the context and returns:
 
-  * Optimized code solution
+    * Optimized code solution
 
-  * Time & Space complexity analysis
+    * Time & Space complexity analysis
 
-  * Optional code in multiple programming languages
+    * Optional code in multiple programming languages
+
+ # 🛠️ Technologies Used
+**Frontend**
+
+* HTML5
+
+* CSS3
+
+* JavaScript
+
+* Bootstrap
+
+**AI / GenAI**
+
+* LangChain
+
+* LangGraph
+
+* LLM-based prompt workflows
+
+**Programming Languages**
+
+* Java
+
+* Python
+
+
+**Core Concepts**
+
+* Data Structures & Algorithms
+
+* Algorithm Optimization
+
+* Time & Space Complexity Analysis
+
+**Tools**
+
+* Git & GitHub
+
+* VS Code
+
+# 🎯 Project Objective
+
+To combine **DSA learning with AI-powered assistance**, enabling learners to:
+
+* Understand optimized solutions
+
+* Analyze algorithm efficiency
+
+* Explore multi-language implementations
+
+* Improve problem-solving skills through guided explanations
+ 
+# 📌 Future Enhancements
+
+* User authentication & progress tracking
+
+* Difficulty-based problem filtering
+
+* Explanation step-by-step mode
+
+* Support for additional programming languages
+
+# 📎 Author
+
+**Santhosh Kumar S**
+B.Tech Artificial Intelligence & Data Science
+( **Start Date**: ‎28 ‎December ‎2025 )
+  
