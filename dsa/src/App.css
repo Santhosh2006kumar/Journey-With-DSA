@@ -4,3 +4,11 @@
 .w-80{
   width: 80%;
 }
+@media screen and (max-width: 767px){
+  .navbar1{
+    display:none;
+  }
+  .tablecontent{
+    width:100%;
+  }
+}

@@ -4,15 +4,20 @@ import CodeOutput from './codeoutput'
 function Basics(){
     return(
         <>
+
+    {/* intro */}
             <div className="container d-flex align-items-center"> 
                 <div className="container">
-                <Link to="/" className="text-danger h3"><i class="bi bi-box-arrow-left"></i></Link>
+                <Link to="/" className="text-danger h3"><i className="bi bi-box-arrow-left"></i></Link>
                 </div>
                 <div className="container">
                     <h1 className="text-warning">BASICS</h1>
                 </div>
             </div>
-            <CodeOutput title="FIND ODD OR EVEN" code={`
+
+        {/*1.  odd or even */}
+
+            <CodeOutput title="1. FIND ODD OR EVEN" code={`
 import java.util.*;
 
 public class Main
@@ -39,7 +44,10 @@ Even
 
 `}
             </CodeOutput>
-            <CodeOutput title="Given an integer num, repeatedly add all its digits until the result has only one digit, and return it. (FIND ALL DIGIT IN A NUMBER)" code={`
+
+        {/*2.  summing till single digit */}
+
+            <CodeOutput title="2. Given an integer num, repeatedly add all its digits until the result has only one digit, and return it. (FIND ALL DIGIT IN A NUMBER)" code={`
  class Solution {
     
     public int addDigits(int n) {
@@ -58,7 +66,10 @@ num =
 2       
 `}
             </CodeOutput>
-            <CodeOutput title="COUNT DIGITS IN A NUMBER" code={`
+
+        {/*3.  count digits */}
+
+            <CodeOutput title="3. COUNT DIGITS IN A NUMBER" code={`
 import java.util.*;
 
 public class Main
@@ -89,7 +100,11 @@ Count digits in a number : 4
 
 `}
             </CodeOutput>
-            <CodeOutput title="REVERSE A NUMBER" code={`
+
+        {/* 4. reverse */}
+
+
+            <CodeOutput title="4. REVERSE A NUMBER" code={`
  class Solution {
     public int reverse(int x) {
         int nx=0;
@@ -118,6 +133,9 @@ x = 120
 21
 `}
             </CodeOutput>
+
+        {/* method 2 reverse */}
+
             <CodeOutput title="REVERSE A NUMBER METHOD 2" code={`
  class Solution {
     public int reverse(int x) {

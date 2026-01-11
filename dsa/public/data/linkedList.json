@@ -17,7 +17,7 @@
                     "glink":"https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1?",
                     "leetcode":"https://leetcode.com/problems/reverse-linked-list/",
                     "difficulty":"easy",
-                    "solution":""
+                    "solution":"solved (L)"
                 },
                 {
                     "problem":"Check if LL is a Palindrome",
@@ -68,7 +68,8 @@
                     "difficulty":"medium",
                     "solution":""
                 }
-            ]
+            ],
+            "link":"/linkedlist"
         },
         {
             "id":2,

@@ -1,10 +1,23 @@
 import CodeBlock from './code'
 import { Link } from 'react-router-dom'
 
+
 function CodeOutput({ title, isource, code, children , tc ,sc }) {
   return (
     <section className="my-4 container">
-      <h3 className="text-primary">{title}</h3>
+      
+      <div className='d-flex justify-content-between'>
+        <h3 className="text-primary">{title}</h3>
+<Link
+  to="/ai-chat"
+  state={{
+    problem: title,
+    language: "Java"
+  }}
+  className="ai-btn text-decoration-none border border-white"
+>
+  Ask AI <i className="bi bi-lightning-fill text-info"></i>
+</Link>      </div>
 
       {isource && (
         <div className="text-center my-1">
@@ -18,11 +31,14 @@ function CodeOutput({ title, isource, code, children , tc ,sc }) {
 
       <CodeBlock>{code}</CodeBlock>
 
-      <p style={{color:"violet"}}>OUTPUT</p>
-
-      <pre className="output-block fs-6">
-        {children}
-      </pre>
+      {children && (
+  <div>
+    <p style={{ color: "violet" }}>OUTPUT</p>
+    <pre className="output-block fs-6">
+      {children}
+    </pre>
+  </div>
+)}
       <div className="complexity-box ">
         {tc && (
           <div className="complexity-item time">

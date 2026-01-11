@@ -6,18 +6,18 @@
             "title":"BASICS",
             "topics":[
                 {
-                    "problem":"Bubble sort(very basic sorting technique)",
+                    "problem":"Bubble sort",
                     "glink":"https://www.geeksforgeeks.org/problems/bubble-sort/1?",
                     "leetcode":"https://leetcode.com/problems/sort-an-array/",
                     "difficulty":"easy",
-                    "solution":""
+                    "solution":"solved"
                 },
                 {
                     "problem":"Selection sort",
                     "glink":"https://www.geeksforgeeks.org/problems/selection-sort/1?",
                     "leetcode":"https://leetcode.com/problems/sort-an-array/",
                     "difficulty":"easy",
-                    "solution":""
+                    "solution":"solved"
                 },
                 {
                     "problem":"Insertion sort",
@@ -40,7 +40,8 @@
                     "difficulty":"medium",
                     "solution":""
                 }
-            ]
+            ],
+            "link":"/sort"
         }
     ]
 }

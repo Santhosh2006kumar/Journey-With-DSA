@@ -80,7 +80,7 @@
                     "glink" : "https://practice.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1",
                     "leetcode":"https://leetcode.com/problems/count-elements-with-maximum-frequency/description/",
                     "difficulty":"easy",
-                    "solution":""
+                    "solution":"solved (L)"
                 }
             ],
             "link":"/arrays"
@@ -102,7 +102,7 @@
                     "glink" : "https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1?",
                     "leetcode":"https://leetcode.com/problems/3sum/description/",
                     "difficulty":"medium",
-                    "solution":""
+                    "solution":"solved (L)"
                 },
                 {
                     "problem" : "4 Sum",
@@ -116,14 +116,14 @@
                     "glink" : "https://www.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1",
                     "leetcode":"https://leetcode.com/problems/3sum/description/",
                     "difficulty":"medium",
-                    "solution":""
+                    "solution":"solved (L)"
                 },
                 {
                     "problem" : "Find count of triplets",
                     "glink" : "https://www.geeksforgeeks.org/dsa/count-of-triplets-in-an-array-i-j-k-such-that-i-j-k-and-ak-ai-aj/",
                     "leetcode":"https://leetcode.com/problems/count-good-triplets/description/",
                     "difficulty":"easy",
-                    "solution":""
+                    "solution":"solved (L)"
                 },
                 {
                     "problem" : "Union of two arrays",
@@ -158,7 +158,7 @@
                     "glink" : "https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1?",
                     "leetcode":"https://leetcode.com/problems/subarray-sum-equals-k/description/",
                     "difficulty":"medium",
-                    "solution":""
+                    "solution":"solved (L)"
                 },
                 {
                     "problem" : "Trapping rain water",
@@ -168,7 +168,7 @@
                     "solution":""
                 }
             ],
-            "link":"/arrays"
+            "link":"/2pointers"
         },
         {
             "id":3,

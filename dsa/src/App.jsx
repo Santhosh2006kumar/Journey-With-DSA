@@ -9,8 +9,8 @@ function App() {
   return (
     <>
       <div className="d-flex">
-          <div className="w-20 border-end border-primary"><Navbar /></div>
-          <div className="w-80  p-3 vh-100 text-center ms-2 me-2 overflow-y-auto">
+          <div className="w-20 border-end border-primary navbar1" ><Navbar /></div>
+          <div className="w-80  p-3 vh-100 text-center ms-2 me-2 overflow-y-auto tablecontent">
   
             <DsaTable url="./data/basics.json" dataKey="basics" thcolor="table-warning" tcolor="text-warning" idno={1} />
             <DsaTable url="./data/arrays.json" dataKey="arrays" thcolor="table-primary" tcolor="text-primary" idno={2} />

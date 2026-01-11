@@ -1,10 +1,11 @@
 import { Link } from 'react-router-dom'
 import CodeOutput from './codeoutput'
+import SpaceComp from './spacecom';
  
 function TcSc(){
     return(
         <>
-            <div className="container text-center d-flex  gap-3"> 
+            <div className="container text-center d-flex  gap-3 mt-3"> 
                 <div className="">
                 <Link to="/" className="text-danger h3"><i className="bi bi-box-arrow-left"></i></Link>
                 </div>
@@ -13,6 +14,7 @@ function TcSc(){
                 </div>
             </div>
            <div className="container mt-3">
+                <h1 className='text-success'>TIME COMPLEXITY</h1>
                 <p className='fs-6'>Time complexity is the number of operations needed to run an algorithm on large amounts of data. And the number of operations can be considered as time because the computer uses some time for each operation.</p>
                 <p>There are three types of Notations</p>
            </div>
@@ -289,6 +291,7 @@ public class Main
                 </div>
                 
            </div>
+           <SpaceComp />
         </>
     );
 }

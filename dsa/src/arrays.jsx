@@ -7,7 +7,7 @@ function Arrays(){
         <>
             <div className="container d-flex align-items-center"> 
                 <div className="container">
-                <Link to="/" className="text-danger h3"><i class="bi bi-box-arrow-left"></i></Link>
+                <Link to="/" className="text-danger h3"><i className="bi bi-box-arrow-left"></i></Link>
                 </div>
                 <div className="container">
                     <h1 className="text-primary">ARRAYS</h1>
@@ -76,6 +76,10 @@ arr = new int[size];
                 </div>
                 
             </div>
+
+    {/* Array insertion */}
+
+
             <CodeOutput title="Array Insertion" code={`
 import java.util.*;
 public class Main
@@ -163,6 +167,8 @@ Enter the position to insert the element
 `}           
             </CodeOutput>
 
+    {/* array deletion */}
+
             <CodeOutput title="Deleting Element from an array" isource="/aedelete1.png" code={`
 import java.util.*;
 
@@ -205,6 +211,9 @@ Enter the position to insert the element
 `}
             </CodeOutput>
 
+    {/* Maximum element in array */}
+
+
             <CodeOutput title="MAXIMUM ELEMENT IN AN ARRAY" code={`
 import java.util.*;
 public class Main
@@ -229,6 +238,8 @@ The Maximum element in an array is 50
 `}
             </CodeOutput>
             
+    {/* Second max element */}
+
             <CodeOutput title="SECOND MAXIMUM ELEMENT IN AN ARRAY" code={`
 import java.util.*;
 public class Main
@@ -259,13 +270,22 @@ The 2nd  Maximum element in an array is 30
 
 `}
             </CodeOutput>
+
+
             <div className="container">
-                <hr class="border-white opacity-100" />
+                <hr className="border-white opacity-100" />
             </div>
+
+{/* basics with traversal */}
+
+
             <div className="text-center">
                 <h1 className="text-white ">BASICS WITH TRAVERSAL</h1>
             </div>
-            <CodeOutput title="FIND THE MAXIMUM AND MINIMUM ELEMENT IN AN ARRAY" tc="O(n)" sc="O(1)" code={`
+
+    {/* 1. find max and min in array */}
+
+            <CodeOutput title="1. FIND THE MAXIMUM AND MINIMUM ELEMENT IN AN ARRAY" tc="O(n)" sc="O(1)" code={`
 import java.util.*;
 
 public class Main
@@ -294,7 +314,9 @@ Minimum Element 5
 `}
             </CodeOutput>
 
-            <CodeOutput title="SEARCH AN ELEMENT IN AN ARRAY" isource="/search_earray.png" tc="O(n)" sc="O(1)" code={`
+    {/* 3. search */}
+
+            <CodeOutput title="3. SEARCH AN ELEMENT IN AN ARRAY" isource="/search_earray.png" tc="O(n)" sc="O(1)" code={`
             import java.util.*;
             
             public class Main
@@ -329,7 +351,11 @@ Minimum Element 5
             `}
             </CodeOutput>
 
-            <CodeOutput title="FIND REPEATING NUMBER IN UNSORTED ARRAY - Given an array of integers nums containing n + 1 integers where each integer is in the range [1, n] inclusive." tc="O(n)" sc="O(1)" code={`
+    
+    {/*5.  repeating number */}
+
+
+            <CodeOutput title="5. FIND REPEATING NUMBER IN UNSORTED ARRAY - Given an array of integers nums containing n + 1 integers where each integer is in the range [1, n] inclusive." tc="O(n)" sc="O(1)" code={`
 class Solution {
     public int findDuplicate(int[] nums) {
         for(int i : nums){
@@ -361,104 +387,10 @@ nums =
 `}
             </CodeOutput>
 
-            <div className="text-center">
-                <h1 className="text-white">TWO POINTERS</h1>
+            <div className="container">
+                <hr className="border-white opacity-100" />
             </div>
 
-            <CodeOutput title="FIND PAIR WITH GIVEN SUM ( 2 SUM )" tc="O(n²)" sc="O(1)" code={`
- class Solution {
-    public int[] twoSum(int[] arr, int target) {
-    for(int i = 0 ; i < arr.length; i++){
-        for(int j = i+1 ; j <  arr.length; j++){
-            if(arr[i] + arr[j] == target)
-            {
-                return new int[]{i,j};
-            }
-        }
-       }
-    return new int[]{};
-    }
-}               
-                `}>
-{`
-nums = 
-[2,7,11,15]
-target =
-9
-[0,1]
-
-nums = 
-[3,2,4]
-target = 
-6
-[1,2]
-`}
-            </CodeOutput>
-
-            <CodeOutput title="REMOVE DUPLICATES FROM SORTED ARRAY" isource="/remove_duplicates_array1.png" tc="O(n)" sc="O(1)" code={`
-import java.util.*;
-class Main {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Enter number of elements ");
-        int n = sc.nextInt();
-        int [] a = new int[n];
-        int s=0;
-        
-        for (int i=0;i<n;i++){
-            a[i]=sc.nextInt();
-        }
-        System.out.println("Initial Array:"+Arrays.toString(a));
-        
-        for(int i=1;i<n;i++){
-            if(a[i]!=a[s]){
-                s++;
-                a[s]=a[i];
-            }
-        }
-        System.out.println("Final Array:");
-        for (int x = 0; x <=s; x++) {
-            System.out.print(a[x] + " ");
-        }
-    }
-            
-}                
-                `}>
-{`
-Enter number of elements: 
-7
-1 1 2 2 2 3 3 
-Initial Array:[1, 1, 2, 2, 2, 3, 3]
-Final Array:
-1 2 3 
-`}
-            </CodeOutput>
-            <div className='container'>
-                <h1 className='text-primary h3'>REMOVE DUPLICATES IN-PLACE FROM A SORTED ARRAY WORKING</h1>
-                <ol className='fs-6'>
-                    <li className='fw-bold text-warning'>Initialize Pointers:</li>
-                        <ul>
-                            <li>Initialize a pointer i to 0. This pointer will keep track of the position where the next unique element should be placed</li>
-                            <li>Initialize another pointer j to 1. This pointer will iterate through the array to find unique elements</li>
-                        </ul>
-                    <li className="fw-bold text-warning">Iterate and Compare:</li>
-                        <ul>
-                            <li>Start a loop from j = 1 up to the end of the array</li>
-                            <li>Inside the loop, compare the element at array[j] with the element at array[i]</li>
-                        </ul>
-                    <li className="fw-bold text-warning">Handle Unique Elements:</li>
-                        <ul>
-                            <li>If array[j] is not equal to array[i], it means you've found a new unique element</li>
-                            <li>Increment i by one (i++)</li>
-                            <li>Place the unique element array[j] at the new i position: array[i] = array[j]</li>
-                        </ul>
-                    <li className="fw-bold text-warning">Return Length:</li>
-                        <ul>
-                            <li>After the loop completes, the first i + 1 elements of the array will contain the unique elements in sorted order</li>
-                            <li>Return i + 1 as the number of unique elements. The elements beyond this length do not matte</li>
-                        </ul>
-                </ol>
-            </div>
 
             
 

@@ -7,6 +7,7 @@ function Navbar(){
             <div className="d-flex flex-column  p-3">
                 <h1 className="fs-3 text-primary">Data Structures</h1>
                 <a href="#basics-1" className='text-decoration-none text-white cbg'>Basics</a>
+                <Link to='/patterns' className='text-decoration-none text-white cbg'>patterns</Link>
                 <a href="#basics-2" className='text-decoration-none text-white cbg'>Array</a>
                 <a href="#basics-3" className='text-decoration-none text-white cbg'>Matrix</a>
                 <a href="#basics-4" className='text-decoration-none text-white cbg'>Recursion</a>
