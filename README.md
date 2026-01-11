@@ -20,11 +20,9 @@ Navigates to the chatbot interface without manual input
 
 🔁 Supports **multi-language code generation**:
 
-    * Java (default)
-
-    * Python
-
-    *  C
+        * Java (default)
+        * Python
+        *  C
 
 🌐 Responsive and user-friendly UI for seamless navigation
 
